@@ -34,6 +34,7 @@ HTML = """<!DOCTYPE html>
 </head>
 <body>
     <div class="card">
+<p>姓名:朱俊臣 学号:2440664304</p>
         <h1>🚀 CI/CD 部署成功！</h1>
         <p class="version">Flask App v1.0 | Python {{ python_version }}</p>
         <div class="status">✅ 服务运行正常</div>
